@@ -1,0 +1,28 @@
+Sigla,Estado,intervalo_inicial,intervalo_final
+AC,Acre,0,18
+AL,Alagoas,23,41
+AM,Amazonas,46,64
+AP,Amapá,69,87
+BA,Bahia,92,110
+CE,Ceará,115,133
+DF,Distrito Federal,138,156
+ES,Espírito Santo,161,179
+GO,Goiás,184,202
+MA,Maranhão,207,225
+MG,Minas Gerais,230,248
+MS,Mato Grosso do Sul,253,271
+MT,Mato Grosso,276,294
+PA,Pará,299,317
+PB,Paraíba,322,340
+PE,Pernambuco,345,363
+PI,Piauí,368,386
+PR,Paraná,391,409
+RJ,Rio de Janeiro,414,432
+RN,Rio Grande do Norte,437,455
+RO,Rondônia,460,478
+RR,Roraima,483,501
+RS,Rio Grande do Sul,506,524
+SC,Santa Catarina,529,547
+SE,Sergipe,552,570
+SP,São Paulo,575,593
+TO,Tocantins,598,616
